@@ -1,1 +1,1 @@
-
+This is a full-stack Node, Express JS with EJS engine application that's connected to MongoDB. You can query MongoDB. Followed assignment instructions as it's, inserted files into the database and removed accordingly. 
